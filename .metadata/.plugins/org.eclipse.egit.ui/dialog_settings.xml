@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="GitCommitMessageComponent">
+		<list key="/home/aster/DEV/WorkSpace/Java/.git">
+			<item value="false"/>
+			<item value="vjzr-Phonex &lt;jiangzhongran@163.com&gt;"/>
+			<item value="create a new proj"/>
+			<item value="vjzr-Phonex &lt;jiangzhongran@163.com&gt;"/>
+			<item value="0cfc7d7ef78fee8619498adf738e87998568a244"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
