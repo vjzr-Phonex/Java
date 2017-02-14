@@ -484,3 +484,11 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 2017-01-23 14:09:06,268 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aster/DEV/WorkSpace/Java/maven/src/main/resources
 2017-01-23 14:09:06,270 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-01-23 14:09:06,270 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aster/DEV/WorkSpace/Java/maven/src/test/resources
+2017-01-23 14:24:56,461 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-23 14:24:56,461 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aster/DEV/WorkSpace/Java/maven/src/main/resources
+2017-01-23 14:24:56,462 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-23 14:24:56,462 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aster/DEV/WorkSpace/Java/maven/src/test/resources
+2017-02-07 09:55:36,270 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 09:55:36,286 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aster/DEV/WorkSpace/Java/maven/src/main/resources
+2017-02-07 09:55:36,288 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 09:55:36,288 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aster/DEV/WorkSpace/Java/maven/src/test/resources
