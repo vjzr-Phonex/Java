@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/aster/DEV/WorkSpace/Java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1911555606.index
+2453138604.index
+1339865468.index
+3134899640.index
+4072157317.index
+576874911.index
